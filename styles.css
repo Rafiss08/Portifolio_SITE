@@ -7,8 +7,8 @@
 }
 
 body {
+    background-color: #000000;
     font-family: 'Chakra Petch', sans-serif;
-    color: var(--cor-principal);
 }
 
 h1, h2, h5 {
